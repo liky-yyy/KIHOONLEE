@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "src"
+  "attachmentFolderPath": "src",
+  "newLinkFormat": "absolute"
 }

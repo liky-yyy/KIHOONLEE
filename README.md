@@ -24,7 +24,7 @@
 - `2024.02 ~ ing` [Lotte Innovate](https://www.lotteinnovate.com/) AI 기술팀 언어 AI 담당
 
 ## 학위논문
-- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [[Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble]]]
+- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble.md)
 - 
 
 ## SCI(E)

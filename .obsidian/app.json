@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "src"
 }

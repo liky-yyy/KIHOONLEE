@@ -24,7 +24,8 @@
 - `2024.02 ~ ing` [Lotte Innovate](https://www.lotteinnovate.com/) AI 기술팀 언어 AI 담당
 
 ## 학위논문
-- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](Papers&Patents/Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble)
+- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [[Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble]]]
+- 
 
 ## SCI(E)
 - **KiHoon Lee**, Gyuho Choi and Chang Choi***,** “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** 

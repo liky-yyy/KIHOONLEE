@@ -1,6 +1,8 @@
 ## Information
 많은 사람들에게 보다 나은 삶을 제공할 수 있도록,
+
 어제보다 더 나은 오늘이 될 수 있도록,
+
 안녕하세요. AI 개발자 이기훈입니다.
 
 - KiHoon Lee(Liky)
@@ -14,15 +16,15 @@
 
 
 ## Education
-`2017.03 ~ 2022.08`  (학사) 가천대학교 컴퓨터공학과 → 4.13/4.5
-`2022.09 ~ 2024.02`  (석사) 가천대학교 일반대학원 IT융합공학과 컴퓨터공학전공 → 4.31/4.5
+- `2017.03 ~ 2022.08`  (학사) 가천대학교 컴퓨터공학과 → 4.13/4.5
+- `2022.09 ~ 2024.02`  (석사) 가천대학교 일반대학원 IT융합공학과 컴퓨터공학전공 → 4.31/4.5
 
 ## Works
-`2021.06 ~ 2024.02` [Intelligent Information Processing Lab](https://iiplab.gachon.ac.kr/) NLP 연구원
-`2024.02 ~ ing` [Lotte Innovate](https://www.lotteinnovate.com/) AI 기술팀 언어 AI 담당
+- `2021.06 ~ 2024.02` [Intelligent Information Processing Lab](https://iiplab.gachon.ac.kr/) NLP 연구원
+- `2024.02 ~ ing` [Lotte Innovate](https://www.lotteinnovate.com/) AI 기술팀 언어 AI 담당
 
 ## 학위논문
-- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](obsidian://open?vault=KIHOONLEE&file=Papers%26Patents%2FResearch%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble)
+- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](Papers&Patents/Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble)
 
 ## SCI(E)
 - **KiHoon Lee**, Gyuho Choi and Chang Choi***,** “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** 

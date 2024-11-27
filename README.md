@@ -5,15 +5,14 @@
 
 안녕하세요. AI 개발자 이기훈입니다.
 
-- KiHoon Lee(Liky)
-- AI Researcher&Developer
+- 👨‍💻 KiHoon Lee(Liky)
+- 🤖 AI Researcher&Developer
 - 📔 Tistory Blog(Tech Blog) [For Better Days](https://forbetterdays.tistory.com/)
 - 👨🏻‍💻 GitHub [GitHub](https://github.com/Liky98)
 - 📧 Email [leekihoon1689@gmail.com](mailto:leekihoon1689@gmail.com)
 - 📷 Instagram [Liky_yyy](https://www.instagram.com/liky_yyy/)
 - 🏢 Work [Lotte Innovate](https://www.lotteinnovate.com/)
 - 📄 Linkedin [Liky](https://www.linkedin.com/in/kihoon-lee-a9b36b277/)
-
 
 ## Education
 - `2017.03 ~ 2022.08`  (학사) 가천대학교 컴퓨터공학과 → 4.13/4.5
@@ -25,7 +24,6 @@
 
 ## 학위논문
 - Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](Papers&Patents/Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble.md)
-
 
 ## SCI(E)
 - **KiHoon Lee**, Gyuho Choi and Chang Choi***,** “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** 
@@ -41,42 +39,4 @@
 ## Patents
 - 2023.10.12, 10-2023-0135560, ”의미론적 관계 학습을 개선하는 언어모델의 모든 토큰의 사용 방법” 특허출원
 
-## Experiments
-
-▪️인공지능 멘토링 활동
-
-→ (졸업프로젝트 멘토활동) CLOMEND(CLOset + recomMEND), 의류 추천 어플리케이션
-
-→ (자연어처리 멘토활동) 월간 데이콘 발화자의 감정인식 AI 경진대회 (26/259등)
-
-▪️가천대학교 자연어처리 특강
-
-→ “언어학 비전공자의 자연어이해 연구”
-
-▪️Reviewer 활동
-
-→ IEEE Access
-
-→ Expert Systems
-
-## Competitions
-
-▪️neurIPS Large-Scale Challenge
-
-→ MAG240M, DBLP Dataset Processing and Subsampling
-
-▪️Kaggle, Dacon Competition
-
-→ Natural Language Processing with Disaster Tweets
-
-→ 쇼핑몰 리뷰 평점 분류 경진대회
-
-▪️제2회 ETRI 휴먼이해 인공지능 논문경진대회 2023
-
-→멀티모달 감정 데이터셋 활용 감정 인식 기술 분야
-
-→ “다차원 CNN 및 전이 학습 기반 일상 대화에서의 발화자 감정 인식 방안 연구” Poster Pass
-
-▪️ICT 2023 Challenge
-
-→ 멀티모달기반 배터리 산업 지능화를 위한 초고속 상태 진단기술 개발
+## Awards

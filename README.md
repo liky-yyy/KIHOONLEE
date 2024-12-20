@@ -25,12 +25,13 @@
 ## SCI(E)
 - **KiHoon Lee**, Gyuho Choi and Chang Choi***,** “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** [더보기]()
 - **KiHoon Lee**, and Chang Choi***,** “Improved Self-Remembering Method: Continuous Interactive Communication using Language Model” _IEEE Transactions on Neural Networks and Learning Systems,_ Submitted [더보기]()
+- **KiHoon Lee**, Myeonghoe Lee, and Chang Choi*, "Unified Modal Ensemble Method: Efficient Integration for Enhanced Multimodal Learning", _Applied Soft Computing Journal_, Submitted [더보기]()
 - #TODO 위에 내용 수정하고 졸업논문 sci화 한거 추가 
 
 ## 국내논문
 - **이기훈**, 최창* “미술 치료 분석을 위한 AI기반 예술 작품 제작 및 증대 방안.” _13th Workshop on Convergent and Smart Media System(CSMS) 2021_. [더보기]()
 - **이기훈**, 정남규 and 최창* "A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation." _한국차세대컴퓨팅학회 학술대회_ (2022): 302-305. **Best Award** [더보기]()
-- #TODO 네이버가서 발표한거 추가 
+- 유용상, **이기훈**, 임형준 "
 
 ## 해외논문
 - **KiHoon Lee**, NamGyu Jung and Chang Choi***,** “A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning” _The 12th International Conference on Smart Media and Applications(SMA 2023)_ [더보기]()

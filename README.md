@@ -42,9 +42,33 @@
 - `2022` 인공지능활용분석
 - `2023` (10-2023-0135560) ”의미론적 관계 학습을 개선하는 언어모델의 모든 토큰의 사용 방법” 특허출원 [더보기](Papers&Patents/METHOD%20FOR%20USING%20ALL%20TOKENS%20OF%20LANGUAGE%20MODEL%20TO%20IMPROVE%20SEMANTIC%20RELATIONSHIP%20LEARNING.md)
 
-## Awards & Experiments
-- (2022) GP-F 경진대회 우수상 (의료용 챗봇 서비스, ADOC) 
-- (2023) KINGPC(한국차세대컴퓨팅) 학술대회 우수논문상 "의미론적 관계 추론을 위한 문장 유사성 전이학습 방법" [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
+## Awards
+- (2022) GP-F 경진대회 우수상 (의료용 챗봇 서비스, ADOC)
+- (2023) KINGPC(한국차세대컴퓨팅) 우수논문상 [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
 - (2024) **open ko-llm leaderboard 1위** 
 - (2024) HCLT-KACL 2024 AI말평 우수논문상 
 - (2024) **제 3회 KRX 금융 언어모델 경진대회 1위** 
+
+## Experiments
+- (2023) AI 멘토링 활동 및 특강 진행 [더보기](Experiments/AI%20멘토링%20활동%20및%20특강.md)
+- (2023) Expert Systems, IEEE Access Reviewer 활동
+
+## Competition
+- (2022)
+	- neurIPS Large-Scale Challenge
+	- Natural Language Processing with Disaster Tweets
+	- 쇼핑몰 리뷰 평점 분류 경진대회
+- (2023)
+	- ETRI 휴먼이해 인공지능 경진대회
+	- ICT Challenge 2023 경진대회 
+	- 발화자의 감정인식 AI 경진대회
+- (2024)
+	- 2024 생명연구자원 AI활용 경진대회
+	- 2024 자동차 데이터 분석 경진대회 
+	- AI 말평 대화 맥락 추론 경진대회
+	- 제 3회 KRX 금융 언어모델 경진대회
+
+## Summit & Conference
+- (2024)
+	- SK AI Summit 2024
+	- Gen AI on AWS - RAG Day

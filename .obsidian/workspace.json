@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Certificate&Awards/Open Ko-LLM Leaderboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Open Ko-LLM Leaderboard"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "4b8ea761d2eaa2b0",
   "lastOpenFiles": [
-    "Experiments/AI 멘토링 활동 및 특강.md",
+    "src/Pasted image 20241221205105.png",
     "README.md",
+    "Certificate&Awards/Open Ko-LLM Leaderboard.md",
+    "Experiments/AI 멘토링 활동 및 특강.md",
     "src/Pasted image 20241221202910.png",
     "src/Pasted image 20241221202559.png",
     "src/Pasted image 20241221202515.png",

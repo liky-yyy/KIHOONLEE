@@ -49,16 +49,14 @@
 - (2024) HCLT-KACL 2024 AI말평 우수논문상 
 - (2024) **제 3회 KRX 금융 언어모델 경진대회 1위** 
 
-## Experiments
-- (2023) AI 멘토링 활동 및 특강 진행 [더보기](Experiments/AI%20멘토링%20활동%20및%20특강.md)
-- (2023) Expert Systems, IEEE Access Reviewer 활동
-
-## Competition
+## Experiments & Competition
 - (2022)
 	- neurIPS Large-Scale Challenge
 	- Natural Language Processing with Disaster Tweets
 	- 쇼핑몰 리뷰 평점 분류 경진대회
 - (2023)
+	- AI 멘토링 활동 및 특강 진행 [더보기](Experiments/AI%20멘토링%20활동%20및%20특강.md)
+	- Expert Systems, IEEE Access Reviewer 활동
 	- ETRI 휴먼이해 인공지능 경진대회
 	- ICT Challenge 2023 경진대회 
 	- 발화자의 감정인식 AI 경진대회
@@ -72,3 +70,4 @@
 - (2024)
 	- SK AI Summit 2024
 	- Gen AI on AWS - RAG Day
+	- Samsung

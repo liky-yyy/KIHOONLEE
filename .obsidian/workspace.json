@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificate&Awards/Open Ko-LLM Leaderboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Ko-LLM Leaderboard"
+              "title": "README"
             }
           }
         ]
@@ -176,15 +176,15 @@
   },
   "active": "4b8ea761d2eaa2b0",
   "lastOpenFiles": [
-    "src/Pasted image 20241221205105.png",
+    "Papers&Patents/A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation.md",
     "README.md",
     "Certificate&Awards/Open Ko-LLM Leaderboard.md",
+    "src/Pasted image 20241221205105.png",
     "Experiments/AI 멘토링 활동 및 특강.md",
     "src/Pasted image 20241221202910.png",
     "src/Pasted image 20241221202559.png",
     "src/Pasted image 20241221202515.png",
     "src/Pasted image 20241221202443.png",
-    "Papers&Patents/A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation.md",
     "src/Pasted image 20241221201315.png",
     "src/Pasted image 20241221201308.png",
     "Papers&Patents/METHOD FOR USING ALL TOKENS OF LANGUAGE MODEL TO IMPROVE SEMANTIC RELATIONSHIP LEARNING.md",
@@ -193,7 +193,6 @@
     "src/Pasted image 20241221200314.png",
     "src/Pasted image 20241221200507.png",
     "src/A Sentence Similarity Transfer Learning Method for Inference of Semantic (award).png",
-    "src/Pasted image 20241221200501.png",
     "src/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble-presentation.pdf",
     "Papers&Patents/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble.md",
     "Papers&Patents/A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning.md",

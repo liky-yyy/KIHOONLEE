@@ -45,7 +45,7 @@
 ## Awards
 - (2022) GP-F 경진대회 우수상 (의료용 챗봇 서비스, ADOC)
 - (2023) KINGPC(한국차세대컴퓨팅) 우수논문상 [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
-- (2024) **open ko-llm leaderboard 1위** 
+- (2024) **open ko-llm leaderboard 1위** [더보기](Certificate&Awards/Open%20Ko-LLM%20Leaderboard.md)
 - (2024) HCLT-KACL 2024 AI말평 우수논문상 
 - (2024) **제 3회 KRX 금융 언어모델 경진대회 1위** 
 
@@ -70,4 +70,4 @@
 - (2024)
 	- SK AI Summit 2024
 	- Gen AI on AWS - RAG Day
-	- Samsung
+	- Samsung Developer Conference Korea 2O24

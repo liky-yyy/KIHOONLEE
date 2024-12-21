@@ -1,7 +1,8 @@
 ## Information
-- Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble
-  향상된 단일모달 앙상블을 위한 효율적인 모달리티 결합에 관한 연구
+- 영문제목: Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble
+- 국문제목: 향상된 단일모달 앙상블을 위한 효율적인 모달리티 결합에 관한 연구
 - Link:  https://www.riss.kr/link?id=T16946098
+- 발표자료: [PDF](../src/Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble-presentation.pdf)
 
 ## 다국어 초록
 Recently, research on multi-modal learning, which can comprehensively learn from various data types, is being actively conducted. While the latest pre-trained large multi-modal models show high performance in many tasks, they require many resources, limiting their use in general situations. The ensemble of uni-modal networks is essential to perform practical multi-modal tasks with efficient computing resources, but there needs to be more empirical research. To solve this, this study emphasizes the ensemble of uni-modal networks and proposes a Unified Modal Ensemble (UME) Method, an effective modality combination method. UME minimizes the heterogeneity between modalities through sequential Representation Learning and maps each modality to the same latent space. We conducted Visual Question Answering Task experiments to verify the UME approach by combining traditional deep-learning networks with the latest pre-trained models. As a result of the experiment, when VGG and LSTM were combined, the UME approach showed a 40.64% improved accuracy compared to the simple combination method. In addition, when a pre-trained language model and vision model based on the transformer were combined, it showed an increase in accuracy of more than 16% on average. The UME approach has been proven to improve the learning and inference performance of the model and minimize the heterogeneity between modalities. This method emphasizes its generality and universality, which can be applied to all deep learning network structures and data types in theory while efficiently managing computational complexity.

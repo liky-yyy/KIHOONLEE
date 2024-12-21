@@ -1,3 +1,5 @@
 .obsidian
 .trash
 .gitignore
+*obsidian*
+*trash*

@@ -18,12 +18,10 @@
 ## Works
 - `2021.06 ~ 2024.02` [Intelligent Information Processing Lab](https://iiplab.gachon.ac.kr/) NLP 연구원
 - `2024.02 ~ ing` [Lotte Innovate](https://www.lotteinnovate.com/) AI기술팀 언어AI담당 프로
-
 ## 학위논문
 - Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble [더보기](Papers&Patents/Research%20on%20Efficient%20Modality%20Fusion%20for%20Enhanced%20Uni-modal%20Ensemble.md)
-
 ## SCI(E)
-- **KiHoon Lee**, Gyuho Choi and Chang Choi, “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** [더보기](Papers%26Patents%2FUse%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning)
+- **KiHoon Lee**, Gyuho Choi and Chang Choi, “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** [더보기](Papers&Patents/Use%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning.md))
 - **KiHoon Lee**, and Chang Choi* “Improved Self-Remembering Method: Continuous Interactive Communication using Language Model” _IEEE Transactions on Neural Networks and Learning Systems,_ Submitted [더보기](Papers&Patents/Use%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning.md)
 - **KiHoon Lee**, Myeonghoe Lee, and Chang Choi*, "Unified Modal Ensemble Method: Efficient Integration for Enhanced Multimodal Learning", _Applied Soft Computing Journal_, Submitted [더보기]()
 

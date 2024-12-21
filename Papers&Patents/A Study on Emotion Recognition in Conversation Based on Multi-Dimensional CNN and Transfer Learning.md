@@ -1,5 +1,6 @@
-![](../src/Pasted%20image%2020241221194219.png)
 ## Information
+![](../src/Pasted%20image%2020241221194219.png)
+
 - Title: A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning
 - Author: Kihoon Lee, Namgyu Jung, Chang Choi
 - Date: 13 December 2023

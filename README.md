@@ -31,8 +31,8 @@
 
 ## 국내논문
 - **이기훈**, 최창* “미술 치료 분석을 위한 AI기반 예술 작품 제작 및 증대 방안.” _13th Workshop on Convergent and Smart Media System(CSMS) 2021_. 
-- **이기훈**, 정남규 and 최창* "A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation." _한국차세대컴퓨팅학회 학술대회_ (2022): 302-305. **Best Award**
-- 유용상, **이기훈**, 임형준 "한국어 이미지 캡셔닝 향상을 위한 유창성 개선 모듈", _한글 및 한국어 정보처리 & 한국코퍼스언어학회_ (2024) 
+- **이기훈**, 정남규 and 최창* "A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation." _한국차세대컴퓨팅학회 학술대회_ (2022): 302-305. **Best Award** [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
+- 유용상, **이기훈**, 임형준 "한국어 이미지 캡셔닝 향상을 위한 유창성 개선 모듈", _한글 및 한국어 정보처리 & 한국코퍼스언어학회_ (2024). **Best Award**
 
 ## 해외논문
 - **KiHoon Lee**, NamGyu Jung and Chang Choi* “A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning” _The 12th International Conference on Smart Media and Applications(SMA 2023)_ [더보기](Papers&Patents/A%20Study%20on%20Emotion%20Recognition%20in%20Conversation%20Based%20on%20Multi-Dimensional%20CNN%20and%20Transfer%20Learning.md)
@@ -40,11 +40,11 @@
 ## Patents & Certificate
 - `2018` 정보처리기능사
 - `2022` 인공지능활용분석
-- `2023` (10-2023-0135560) ”의미론적 관계 학습을 개선하는 언어모델의 모든 토큰의 사용 방법” 특허출원
+- `2023` (10-2023-0135560) ”의미론적 관계 학습을 개선하는 언어모델의 모든 토큰의 사용 방법” 특허출원 [더보기](Papers&Patents/METHOD%20FOR%20USING%20ALL%20TOKENS%20OF%20LANGUAGE%20MODEL%20TO%20IMPROVE%20SEMANTIC%20RELATIONSHIP%20LEARNING.md)
 
 ## Awards & Experiments
 - (2022) GP-F 경진대회 우수상 (의료용 챗봇 서비스, ADOC) 
-- (2023) KINGPC(한국차세대컴퓨팅) 학술대회 우수논문상 "의미론적 관계 추론을 위한 문장 유사성 전이학습 방법"
+- (2023) KINGPC(한국차세대컴퓨팅) 학술대회 우수논문상 "의미론적 관계 추론을 위한 문장 유사성 전이학습 방법" [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
 - (2024) **open ko-llm leaderboard 1위** 
 - (2024) HCLT-KACL 2024 AI말평 우수논문상 
 - (2024) **제 3회 KRX 금융 언어모델 경진대회 1위** 

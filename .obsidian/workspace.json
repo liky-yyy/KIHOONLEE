@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers&Patents/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble"
+              "title": "README"
             }
           }
         ]
@@ -170,29 +170,32 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "4b8ea761d2eaa2b0",
   "lastOpenFiles": [
-    "src/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble-presentation.pdf",
-    "Papers&Patents/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble.md",
+    "Papers&Patents/A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation.md",
     "README.md",
-    "().md",
+    "src/Pasted image 20241221201315.png",
+    "src/Pasted image 20241221201308.png",
+    "Papers&Patents/METHOD FOR USING ALL TOKENS OF LANGUAGE MODEL TO IMPROVE SEMANTIC RELATIONSHIP LEARNING.md",
     "Papers&Patents/Improved Self-Remembering Method - Continuous Interactive Communication using Language Model.md",
-    "Papers&Patents/A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning.md",
-    "src/Pasted image 20241221194356.png",
-    "src/Pasted image 20241221194219.png",
-    "src/Pasted image 20241221194128.png",
-    "src/Pasted image 20241221194118.png",
-    "src/Pasted image 20241221193907.png",
     "Papers&Patents/Use All Tokens Method To Improve Semantic Relationship Learning.md",
-    "src/Pasted image 20241221193806.png",
-    "src/Pasted image 20241221193712.png",
-    "src/Pasted image 20241221193459.png",
-    "src/Pasted image 20241221193425.png",
+    "src/Pasted image 20241221200314.png",
+    "src/Pasted image 20241221200507.png",
+    "src/A Sentence Similarity Transfer Learning Method for Inference of Semantic (award).png",
+    "src/Pasted image 20241221200501.png",
+    "src/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble-presentation.pdf",
+    "src/Pasted image 20241221194356.png",
+    "src/A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation.png",
+    "Papers&Patents/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble.md",
+    "src/Pasted image 20241221200452.png",
+    "src/Pasted image 20241221194219.png",
+    "Papers&Patents/A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning.md",
+    "().md",
     "Papers%26Patents%2FUse All Tokens Method To Improve Semantic Relationship Learning.md",
-    "src/Pasted image 20241221190149.png",
     "Papers&Patents/temp.md",
     "Papers&Patents/Research.md",
     "Papers%26Patents/Research on Efficient Modality Fusion for Enhanced Uni-modal Ensemble.md",

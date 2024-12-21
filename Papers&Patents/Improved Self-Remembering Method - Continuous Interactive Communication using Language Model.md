@@ -1,8 +1,7 @@
-![](../src/Pasted%20image%2020241221193907.png)
-
 ## Information
-- Tittle: Improved Self-Remembering Method: Continuous Interactive Communication using Language Model
-- Author: Kihoon Lee, Chang Choi
+![](../src/Pasted%20image%2020241221193907.png)
+- Tittle: **Improved Self-Remembering Method: Continuous Interactive Communication using Language Model**
+- Author: **Kihoon Lee**, Chang Choi
 - Date: None  
 - Publisher: IEEE
 - Journal: Transactions on Neural Networks and Learning Systems

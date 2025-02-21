@@ -72,3 +72,6 @@
 	- SK AI Summit 2024
 	- Gen AI on AWS - RAG Day
 	- Samsung Developer Conference Korea 2O24
+	- HCLT-KACL 2024
+- `2025`
+	- W&B 서울 밋업 #4

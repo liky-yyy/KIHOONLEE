@@ -68,7 +68,9 @@
 	- (AI 말평) 대화 맥락 추론(CCI 2024) 경진대회 [더보기](Competition/CCI%202024%20대화%20맥락%20추론.md)
 	- (AI 말평) 문자가 포함된 그림(사진) 기반 문장 생성 경진대회
 	- (KRX) 제 3회 KRX 금융 언어모델 경진대회 [더보기](Certificate&Awards/제%203회%20KRX%20금융%20언어모델%20경진대회.md)
-
+- `2025`
+	- (멘토링) 대학원생 멘토링
+	- (세미나) Text-to-SQL 관련 외부 세미나 발표
 ## Summit & Conference
 - `2024`
 	- SK AI Summit 2024
@@ -78,3 +80,49 @@
 - `2025`
 	- W&B 서울 밋업 #4
 	- AWS Summit Seoul 2025
+
+## 주요 담당 업무 및 프로젝트
+-  **대화형 AI 서비스용 웹 크롤러 및 스크래핑 시스템 개발 및 API 구축**
+    - 사용자가 url 입력 시 context를 리턴하는 시스템(논문, 유튜브, 뉴스, 쇼핑몰 등 지원 가능)
+-  **사용자 질의 의도 파악 및 개인화 추천을 위한 후속 질의 추천 모델 개발 및 서비스 운영**
+	- 대화형 AI 서비스에서 사용자에게 '이런 질문은 어떠세요?'라는 후속 질문들을 3개 추천하는 모델 설계 및 개발 후 서비스 중
+- **데이터 기반 의사결정 지원을 위한 대화형 BI(Business Intelligence) AI 시스템 설계 및 구축**
+    -  실제 계열사의 매출 데이터를 기반으로 대화형 경영 정보 시스템에서 필요한 Text2SQL, Result2Answer 등 AI 파트를 담당하여 설계 및 서빙 진행     
+- **사내/외 Task 기반 LLM 성능 평가를 위한 벤치마크 파이프라인 구현 및 정량적 비교 분석 체계 수립**
+    - 객관적인 모델 성능 지표 비교를 위해 모델명을 입력 시 유명한 벤치마크들과 내부 벤치마크를 수행하여 자동으로 점수를 업로드하는 파이프라인 설계 및 구현
+- **보안관제 시스템 내 네트워크 페이로드 분석 기반 이상행위/공격 패턴 탐지 모델 개발**
+    - sllm 및 enc-dec 기반 공격 탐지를 위한 모델 학습, 비교 진행 
+- **과거 장애 사례 및 실시간 검색 기반 시스템 장애 조치 챗봇 개발 및 운영**
+    - 과거 사례들과 검색을 기반으로 현재 장애에 대해 설명 및 자세한 해결 방안을 제공하는 대화형 보고서 생성 챗봇 서비스 설계 및 운영 중
+- **내부 AI 플랫폼 서비스를 위한 데이터 수집, 전처리, 정제, API 등 관리**
+    - 질이 좋은 학습 데이터만을 사용하기 위해 데이터 관리를 꾸준히 진행 중
+8. **문서(PDF, DOCX, XLSX 등)로부터 텍스트 및 구조화된 정보 추출을 위한 문서 파서 모듈 개발**
+    - RAG 시스템을 위한 문서 파서 비교 및 개발 진행
+9. **AWS NPU(Inferentia/Trainium) 도입 타당성 분석 및 LLM 추론/학습 최적화 방안 연구/검토**
+    - NPU 도입을 위한 내부 테스트 진행  
+10. **Webex 플랫폼 내 뉴스 브리핑 및 오픈도메인 챗봇 기능 연동 및 운영 관리**
+    - 구내식당 메뉴 정보, 실시간 뉴스 검색, 오픈도메인 답변 등 여러 기능을 담은 웹엑스 챗봇 구현 및 연동 후 관리 중
+
+### 기술 스택 (Technical Skills)
+
+**1. 머신러닝 / 딥러닝 (Machine Learning / Deep Learning)**  
+* **프레임워크:** PyTorch, Hugging Face Transformers  
+* **모델 최적화:** ONNX, TensorRT 
+* **실험 관리:** Weights & Biases (wandb), logger 사용
+
+**2. LLM (Large Language Models)**  
+* **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
+* **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
+* **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
+* **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
+* **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
+
+**3. MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  
+* **API 개발:** FastAPI, Uvicorn  
+* **컨테이너 & 배포:** Docker  
+* **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
+* **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
+
+**4. 개발 환경 및 협업 (Development Environment & Collaboration)**  
+* **버전 관리:** Git  
+* **협업 도구:** Notion, Figma, Jira

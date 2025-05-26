@@ -96,33 +96,33 @@
     - 과거 사례들과 검색을 기반으로 현재 장애에 대해 설명 및 자세한 해결 방안을 제공하는 대화형 보고서 생성 챗봇 서비스 설계 및 운영 중
 - **내부 AI 플랫폼 서비스를 위한 데이터 수집, 전처리, 정제, API 등 관리**
     - 질이 좋은 학습 데이터만을 사용하기 위해 데이터 관리를 꾸준히 진행 중
-8. **문서(PDF, DOCX, XLSX 등)로부터 텍스트 및 구조화된 정보 추출을 위한 문서 파서 모듈 개발**
+- **문서(PDF, DOCX, XLSX 등)로부터 텍스트 및 구조화된 정보 추출을 위한 문서 파서 모듈 개발**
     - RAG 시스템을 위한 문서 파서 비교 및 개발 진행
-9. **AWS NPU(Inferentia/Trainium) 도입 타당성 분석 및 LLM 추론/학습 최적화 방안 연구/검토**
+- **AWS NPU(Inferentia/Trainium) 도입 타당성 분석 및 LLM 추론/학습 최적화 방안 연구/검토**
     - NPU 도입을 위한 내부 테스트 진행  
-10. **Webex 플랫폼 내 뉴스 브리핑 및 오픈도메인 챗봇 기능 연동 및 운영 관리**
+- **Webex 플랫폼 내 뉴스 브리핑 및 오픈도메인 챗봇 기능 연동 및 운영 관리**
     - 구내식당 메뉴 정보, 실시간 뉴스 검색, 오픈도메인 답변 등 여러 기능을 담은 웹엑스 챗봇 구현 및 연동 후 관리 중
 
 ### 기술 스택 (Technical Skills)
 
-**1. 머신러닝 / 딥러닝 (Machine Learning / Deep Learning)**  
-* **프레임워크:** PyTorch, Hugging Face Transformers  
-* **모델 최적화:** ONNX, TensorRT 
-* **실험 관리:** Weights & Biases (wandb), logger 사용
+- **머신러닝 / 딥러닝 (Machine Learning / Deep Learning)**
+	* **프레임워크:** PyTorch, Hugging Face Transformers  
+	* **모델 최적화:** ONNX, TensorRT 
+	* **실험 관리:** Weights & Biases (wandb), logger 사용
 
-**2. LLM (Large Language Models)**  
-* **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
-* **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
-* **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
-* **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
-* **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
+- **LLM (Large Language Models)**  
+	* **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
+	* **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
+	* **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
+	* **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
+	* **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
 
-**3. MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  
-* **API 개발:** FastAPI, Uvicorn  
-* **컨테이너 & 배포:** Docker  
-* **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
-* **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
+- **MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  
+	* **API 개발:** FastAPI, Uvicorn  
+	* **컨테이너 & 배포:** Docker  
+	* **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
+	* **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
 
-**4. 개발 환경 및 협업 (Development Environment & Collaboration)**  
-* **버전 관리:** Git  
-* **협업 도구:** Notion, Figma, Jira
+- **개발 환경 및 협업 (Development Environment & Collaboration)**  
+	* **버전 관리:** Git  
+	* **협업 도구:** Notion, Figma, Jira

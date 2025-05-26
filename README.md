@@ -106,23 +106,23 @@
 ### 기술 스택 (Technical Skills)
 
 - **머신러닝 / 딥러닝 (Machine Learning / Deep Learning)**
-	* **프레임워크:** PyTorch, Hugging Face Transformers  
-	* **모델 최적화:** ONNX, TensorRT 
-	* **실험 관리:** Weights & Biases (wandb), logger 사용
+	- **프레임워크:** PyTorch, Hugging Face Transformers  
+	- **모델 최적화:** ONNX, TensorRT 
+	- **실험 관리:** Weights & Biases (wandb), logger 사용
 
 - **LLM (Large Language Models)**  
-	* **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
-	* **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
-	* **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
-	* **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
-	* **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
+	- **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
+	- **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
+	- **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
+	- **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
+	- **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
 
 - **MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  
-	* **API 개발:** FastAPI, Uvicorn  
-	* **컨테이너 & 배포:** Docker  
-	* **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
-	* **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
+	- **API 개발:** FastAPI, Uvicorn  
+	- **컨테이너 & 배포:** Docker  
+	- **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
+	- **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
 
 - **개발 환경 및 협업 (Development Environment & Collaboration)**  
-	* **버전 관리:** Git  
-	* **협업 도구:** Notion, Figma, Jira
+	- **버전 관리:** Git  
+	- **협업 도구:** Notion, Figma, Jira

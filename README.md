@@ -26,13 +26,15 @@
 
 ## SCI(E)
 - **KiHoon Lee**, Gyuho Choi and Chang Choi, “Use All Tokens Method To Improve Semantic Relationship Learning", _Expert Systems with Applications_, vol. 233, ID 120911, pp. 1-8, Dec 2023 **(IF: 8.5 / Top 6.4%)** [더보기](Papers&Patents/Use%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning.md)
-- **KiHoon Lee**, and Chang Choi* “Improved Self-Remembering Method: Continuous Interactive Communication using Language Model” _IEEE Transactions on Neural Networks and Learning Systems,_ Submitted [더보기](Papers&Patents/Improved%20Self-Remembering%20Method%20-%20Continuous%20Interactive%20Communication%20using%20Language%20Model.md)
+- **KiHoon Lee**, and Chang Choi* “Improved Self-Remembering Method: Continuous Interactive Communication using Language Model” _IEEE Transactions on Computational Social Systems,_ Submitted [더보기](Papers&Patents/Improved%20Self-Remembering%20Method%20-%20Continuous%20Interactive%20Communication%20using%20Language%20Model.md)
 - **KiHoon Lee**, Myeonghoe Lee, and Chang Choi*, "Unified Modal Ensemble Method: Efficient Integration for Enhanced Multimodal Learning", _Applied Soft Computing Journal_, Submitted
 
 ## 국내논문
 - **이기훈**, 최창* “미술 치료 분석을 위한 AI기반 예술 작품 제작 및 증대 방안.” _13th Workshop on Convergent and Smart Media System(CSMS) 2021_. 
 - **이기훈**, 정남규 and 최창* "A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation." _한국차세대컴퓨팅학회 학술대회_ (2022): 302-305. **Best Award** [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
 - 유용상, **이기훈**, 임형준 "한국어 이미지 캡셔닝 향상을 위한 유창성 개선 모듈", _한글 및 한국어 정보처리 & 한국코퍼스언어학회_ (2024). **Best Award** [더보기](Papers&Patents/한국어%20이미지%20캡셔닝%20향상을%20위한%20유창성%20개선%20모듈.md)
+- 김대건, 정민교, **이기훈**, 김강열, 박주혜 "캐시 기반 예제 검색을 활용한 Text-to-SQL에서의 동적 Few-shot Learning 기법", _한국정보통신학회_(2025).
+- 임형준, 유용상, **이기훈**, 오현식, 전슬기 "긍정 답변과 부정 답변 혼합을 통한 LLM 안정성 향상에 관한 연구", _대한전자공학회_(2025).
 
 ## 해외논문
 - **KiHoon Lee**, NamGyu Jung and Chang Choi* “A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning” _The 12th International Conference on Smart Media and Applications(SMA 2023)_ [더보기](Papers&Patents/A%20Study%20on%20Emotion%20Recognition%20in%20Conversation%20Based%20on%20Multi-Dimensional%20CNN%20and%20Transfer%20Learning.md)
@@ -75,3 +77,4 @@
 	- HCLT-KACL 2024
 - `2025`
 	- W&B 서울 밋업 #4
+	- AWS Summit Seoul 2025

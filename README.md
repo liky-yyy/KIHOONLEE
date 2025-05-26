@@ -80,6 +80,7 @@
 - `2025`
 	- W&B 서울 밋업 #4
 	- AWS Summit Seoul 2025
+	- KIICE 2025
 
 ## 주요 담당 업무 및 프로젝트
 -  **대화형 AI 서비스용 웹 크롤러 및 스크래핑 시스템 개발 및 API 구축**
@@ -112,17 +113,17 @@
 
 - **LLM (Large Language Models)**  
 	- **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
-	- **주요 기술:** Prompt Engineering, RAG (Retrieval-Augmented Generation)  
-	- **응용 모듈 개발 가능:** Text-to-SQL, Paraphrasing, Classification, Data Augmentation ...
+	- **LLM 성능 및 서비스 고도화:** Prompt Engineering, RAG, Paraphrasing ...   
+	- **응용 모듈 개발 가능:** Text-to-SQL, Classification, Data Augmentation ...
 	- **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
 	- **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
 
 - **MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  
 	- **API 개발:** FastAPI, Uvicorn  
-	- **컨테이너 & 배포:** Docker  
+	- **컨테이너 & 배포:** Docker 
 	- **데이터베이스:** PostgreSQL, MySQL, MariaDB (관리: DBeaver)  
 	- **데모 & 프로토타이핑:** Gradio, Streamlit (터널링: localtunnel, ngrok)
 
 - **개발 환경 및 협업 (Development Environment & Collaboration)**  
-	- **버전 관리:** Git  
+	- **버전 및 환경 관리:** Git, uv  
 	- **협업 도구:** Notion, Figma, Jira

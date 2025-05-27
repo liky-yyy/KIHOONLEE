@@ -107,15 +107,14 @@
 ### 기술 스택 (Technical Skills)
 
 - **머신러닝 / 딥러닝 (Machine Learning / Deep Learning)**
-	- **프레임워크:** PyTorch, Hugging Face Transformers  
-	- **모델 최적화:** ONNX, TensorRT 
-	- **실험 관리:** Weights & Biases (wandb), logger 사용
+	- **프레임워크:** PyTorch, Hugging Face Transformers, unsloth, deepspeed
+	- **실험 관리:** Weights & Biases (wandb), logger
 
 - **LLM (Large Language Models)**  
 	- **모델 개발:** Encoder, Decoder, Encoder-Decoder 아키텍처 학습 및 서빙  
 	- **LLM 성능 및 서비스 고도화:** Prompt Engineering, RAG, Paraphrasing ...   
 	- **응용 모듈 개발 가능:** Text-to-SQL, Classification, Data Augmentation ...
-	- **추론/서빙 엔진:** vLLM, SGLang, lmdeploy  
+	- **추론/서빙 엔진:** vLLM, SGLang, lmdeploy, ONNX, TensorRT 
 	- **상용 서비스 연동:** OpenAI API, OpenRouter, LiteLLM, naver-openapi, tavily ...
 
 - **MLOps / 백엔드 / 데이터 (MLOps / Backend / Data)**  

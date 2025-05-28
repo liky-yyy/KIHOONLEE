@@ -7,7 +7,7 @@
 - 👨‍💻 KiHoon Lee(Liky)
 - 🤖 AI Researcher&Developer
 - 📔 Tistory Blog(Tech Blog) [For Better Days](https://forbetterdays.tistory.com/)
-- 👨🏻‍💻 GitHub [GitHub](https://github.com/Liky98)
+- 👨🏻‍💻 GitHub [GitHub](https://github.com/Liky-yyy)
 - 📧 Email [leekihoon1689@gmail.com](mailto:leekihoon1689@gmail.com)
 - 📷 Instagram [Liky_yyy](https://www.instagram.com/liky_yyy/)
 - 🏢 Work [Lotte Innovate](https://www.lotteinnovate.com/)

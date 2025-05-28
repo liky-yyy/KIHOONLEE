@@ -73,13 +73,14 @@
 	- (세미나) Text-to-SQL 관련 외부 세미나 발표
 ## Summit & Conference
 - `2024`
-	- SK AI Summit 2024
-	- Gen AI on AWS - RAG Day
+	- SK AI Summit 2024 [더보기](Experiments/SK%20AI%20Summit%202024.md)
+	- Gen AI on AWS - RAG Day [더보기](Experiments/GenAI%20on%20AWS%20-%20RAG%20Day.md)
 	- Samsung Developer Conference Korea 2O24
 	- HCLT-KACL 2024
+	- AWS SageMaker Immersion Day [더보기](Experiments/AWS%20SageMaker%20Immersion%20Day.md)
 - `2025`
 	- W&B 서울 밋업 #4
-	- AWS Summit Seoul 2025
+	- AWS Summit Seoul 2025 [더보기](src/AWS_SUMMIT_SEOUL_2025_참관후기_이기훈.pdf)
 	- KIICE 2025
 
 ## 주요 담당 업무 및 프로젝트

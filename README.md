@@ -53,7 +53,7 @@
 - (2024) **open ko-llm leaderboard 1위** [더보기](Certificate&Awards/Open%20Ko-LLM%20Leaderboard.md)
 - (2024) HCLT-KACL 2024 우수논문상  [더보기](Papers&Patents/한국어%20이미지%20캡셔닝%20향상을%20위한%20유창성%20개선%20모듈.md)
 - (2024) **제 3회 KRX 금융 언어모델 경진대회 1위** [더보기](Certificate&Awards/제%203회%20KRX%20금융%20언어모델%20경진대회.md)
-- (2025) 2025 국립국어원 AI말평경진대회 (TBD)
+- (2025) **2025 국립국어원 AI말평경진대회 금상** [더보기](Certificate&Awards/2025%20국립국어원%20AI말평경진대회.md)
 
 ## Experiments & Competition
 - `2022`
@@ -76,6 +76,7 @@
 	- (멘토링) 대학원생 멘토링
 	- (세미나) Text-to-SQL 관련 외부 세미나 발표
 	- (강의) 롯데인재개발원 신입사원입문교육 AI 강의진행
+	- (카카오임팩트) AI TOP 100 본선진출
 ## Summit & Conference
 - `2024`
 	- SK AI Summit 2024 [더보기](Experiments/SK%20AI%20Summit%202024.md)

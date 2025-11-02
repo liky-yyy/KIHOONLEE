@@ -165,20 +165,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4b8ea761d2eaa2b0",
   "lastOpenFiles": [
-    "Certificate&Awards/제 3회 KRX 금융 언어모델 경진대회.md",
+    "Certificate&Awards/2025 국립국어원 AI말평경진대회.md",
     "README.md",
+    "src/803E306E-67E1-417A-A10A-15C747D0AB73_1_105_c.jpeg",
+    "src/99AD548F-34E2-49BA-84C2-8A218D6F77A1_1_105_c.jpeg",
+    "src/Pasted image 20251103083444.png",
+    "Certificate&Awards/Open Ko-LLM Leaderboard.md",
+    "Certificate&Awards/제 3회 KRX 금융 언어모델 경진대회.md",
     "Papers&Patents/한국어 이미지 캡셔닝 향상을 위한 유창성 개선 모듈.md",
     "src/Pasted image 20241221213615.png",
     "src/Pasted image 20241221213553.png",
@@ -193,11 +198,7 @@
     "src/CCI2024.pdf",
     "src/Pasted image 20241221210927.png",
     "src/Pasted image 20241221210224.png",
-    "src/Pasted image 20241221210120.png",
     "Papers&Patents/A Sentence Similarity Transfer Learning Method for Inference of Semantic Relation.md",
-    "Certificate&Awards/Open Ko-LLM Leaderboard.md",
-    "src/Pasted image 20241221205105.png",
-    "src/Pasted image 20241221202910.png",
     "Papers&Patents/METHOD FOR USING ALL TOKENS OF LANGUAGE MODEL TO IMPROVE SEMANTIC RELATIONSHIP LEARNING.md",
     "Papers&Patents/Improved Self-Remembering Method - Continuous Interactive Communication using Language Model.md",
     "Papers&Patents/Use All Tokens Method To Improve Semantic Relationship Learning.md",

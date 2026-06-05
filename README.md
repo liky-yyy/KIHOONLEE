@@ -21,7 +21,7 @@
 
 ---
 
-## 🏢 Work Experience (경력 사항)
+## Work Experience
 
 ### **Lotte Innovate** (AI기술팀 언어AI담당 프로)
 *`2024.02 ~ Present`*
@@ -114,7 +114,7 @@
 * (neurIPS) OGB-LSC Large-Scale Challenge (2022)
 
 
-## 🛠 Tech Stack (기술 스택)
+## Tech Stack
 
 | 분류 | 기술 기술 및 프레임워크 |
 | --- | --- |

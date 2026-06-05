@@ -17,6 +17,7 @@
 * 🥇 **국립국어원 AI 말평 경진대회 금상** (문화체육관광부 장관상) [더보기](Certificate&Awards/2025%20국립국어원%20AI말평경진대회.md)
 * 🥇 **Open Ko-LLM Leaderboard 1위** [더보기](Certificate&Awards/Open%20Ko-LLM%20Leaderboard.md)
 * 🥇 **Top Tier SCI(E) 저널 게재**: *Expert Systems with Applications* (IF: 8.5 / JCR Top 6.4%) 제1저자 논문 게재 [더보기](Papers&Patents/Use%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning.md)
+* 🥇 **AI_Top_100 진출자** 
 
 ---
 
@@ -75,18 +76,22 @@
 ### 해외 학술대회 (International Conferences)
 * **KiHoon Lee**, NamGyu Jung and Chang Choi*, “A Study on Emotion Recognition in Conversation Based on Multi-Dimensional CNN and Transfer Learning”, _The 12th International Conference on Smart Media and Applications (SMA 2023)_ [더보기](Papers&Patents/A%20Study%20on%20Emotion%20Recognition%20in%20Conversation%20Based%20on%20Multi-Dimensional%20CNN%20and%20Transfer%20Learning.md)
 
----
 
-## Patents & Certificates
+## Patents & Certificates & Awards
 * **특허 출원**: ”의미론적 관계 학습을 개선하는 언어모델의 모든 토큰의 사용 방법” (출원번호: 10-2023-0135560), 2023 [더보기](Papers&Patents/METHOD%20FOR%20USING%20ALL%20TOKENS%20OF%20LANGUAGE%20MODEL%20TO%20IMPROVE%20SEMANTIC%20RELATIONSHIP%20LEARNING.md)
 * **자격증**: 인공지능활용분석 (2022)
 * **자격증**: 정보처리기능사 (2018)
 
----
+- GP-F 경진대회 우수상 (의료용 챗봇 서비스, ADOC)
+- KINGPC(한국차세대컴퓨팅) 우수논문상 [더보기](Papers&Patents/A%20Sentence%20Similarity%20Transfer%20Learning%20Method%20for%20Inference%20of%20Semantic%20Relation.md)
+- **open ko-llm leaderboard 1위** [더보기](Certificate&Awards/Open%20Ko-LLM%20Leaderboard.md)
+- HCLT-KACL 2024 우수논문상  [더보기](Papers&Patents/한국어%20이미지%20캡셔닝%20향상을%20위한%20유창성%20개선%20모듈.md)
+- **제 3회 KRX 금융 언어모델 경진대회 1위** [더보기](Certificate&Awards/제%203회%20KRX%20금융%20언어모델%20경진대회.md)
+- **2025 국립국어원 AI말평경진대회 금상** [더보기](Certificate&Awards/2025%20국립국어원%20AI말평경진대회.md)
 
 ## Competitions & Activities
 
-### 주요 활동 및 강의
+### 기타 활동
 * **(강사)** 롯데인재개발원 신입사원입문교육 AI 교육 및 강의 진행(2025~Present)
 * **(세미나)** Text-to-SQL 관련 외부 세미나 발표 
 * **(멘토링)** 대학원생 AI 멘토링 진행
@@ -94,8 +99,9 @@
 * 멘토링 활동 및 특강 진행 [더보기](Experiments/AI%20멘토링%20활동%20및%20특강.md)
 
 ### 참여 경진대회 및 해커톤
-* (크래프톤) 2026 크래프톤 AI 해커톤 본선진출 (2026)
-* (카카오임팩트) AI TOP 100 본선진출 (2025)
+* (KDD) KDD Cup 2026 (2026)
+* (크래프톤) 2026 크래프톤 AI 해커톤 (2026)
+* (카카오임팩트) AI TOP 100 (2025)
 * (AI 말평) 문자가 포함된 그림(사진) 기반 문장 생성 경진대회 (2024)
 * (AI 말평) 대화 맥락 추론(CCI 2024) 경진대회 (2024) [더보기](Competition/CCI%202024%20대화%20맥락%20추론.md)
 * (Dacon) 2024 자동차 데이터 분석 경진대회 (2024)
@@ -107,7 +113,6 @@
 * (Kaggle) Natural Language Processing with Disaster Tweets (2022)
 * (neurIPS) OGB-LSC Large-Scale Challenge (2022)
 
----
 
 ## 🛠 Tech Stack (기술 스택)
 

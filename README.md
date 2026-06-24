@@ -4,9 +4,13 @@
 
 <p align="left">
   <a href="mailto:leekihoon1689@gmail.com"><img src="https://img.shields.io/badge/Email-leekihoon1689@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  
   <a href="https://github.com/Liky-yyy"><img src="https://img.shields.io/badge/GitHub-Liky--yyy-black?style=flat-square&logo=github" alt="GitHub"></a>
+  
   <a href="https://forbetterdays.tistory.com/"><img src="https://img.shields.io/badge/Blog-For%20Better%20Days-orange?style=flat-square" alt="Blog"></a>
+  
   <a href="https://www.linkedin.com/in/kihoon-lee-a9b36b277/"><img src="https://img.shields.io/badge/LinkedIn-Liky-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+
   <a href="https://www.instagram.com/liky_yyy/"><img src="https://img.shields.io/badge/Instagram-Liky__yyy-pink?style=flat-square&logo=instagram" alt="Instagram"></a>
 </p>
 
@@ -17,26 +21,25 @@
 * 🥇 **국립국어원 AI 말평 경진대회 금상** (문화체육관광부 장관상) [더보기](Certificate&Awards/2025%20국립국어원%20AI말평경진대회.md)
 * 🥇 **Open Ko-LLM Leaderboard 1위** [더보기](Certificate&Awards/Open%20Ko-LLM%20Leaderboard.md)
 * 🥇 **Top Tier SCI(E) 저널 게재**: *Expert Systems with Applications* (IF: 8.5 / JCR Top 6.4%) 제1저자 논문 게재 [더보기](Papers&Patents/Use%20All%20Tokens%20Method%20To%20Improve%20Semantic%20Relationship%20Learning.md)
-* 🥇 **AI_Top_100 진출자** 
+* 🥇 **AI_Top_100 상위 100인 선정** 
 
 ---
 
 ## Work Experience
 
 ### **Lotte Innovate** (AI기술팀 언어AI담당 프로)
-*`2024.02 ~ Present`*
-* **아이멤버(AiMember) 플랫폼 대화형 AI 서비스 메인 개발**
-  - 사내/외 상용 서비스인 **'롯데GPT'** 및 **'추천질의'** 시스템의 Core 로직 아키텍처 설계, 개발 및 추론/서빙 최적화
+*`2024.02 ~ Present`* **[대표 프로젝트]**
+* **아이멤버(Aimember) 플랫폼 대화형 AI 서비스 메인 개발**
+  - 사내/외 상용 B2B AI 플랫폼인 아이멤버에서 메인 대화 서비스인 **'롯데GPT'** 및 **'추천질의'** 시스템의 Core 로직 아키텍처 설계 및 개발
+  - 추론/서빙 최적화로 Latency 감소와 사용량에 따른 처리속도 대응 
 * **에이전트 챗봇(Agent Chatbot) 개발 및 구축**
   - **대화형 경영 정보 챗봇**: 데이터 기반 의사결정을 지원하기 위한 MIS 대화형 BI(Business Intelligence) 시스템(Text-to-SQL 등 활용) 설계 및 구축
   - **장애조치 챗봇**: 과거 장애 사례 분석 및 실시간 검색 연동을 기반으로 한 시스템 장애 조치 에이전트 개발 및 운영
   - **피지컬 AI**: 휴머노이드 로봇에 LLM을 적용하여 대화 및 툴 호출 가능하도록 개발 및 시연
-* **LLM 벤치마크 및 평가 파이프라인 수립**
+* **LLM 벤치마크 및 서비스용 시스템 분석 파이프라인 수립**
   - 다양한 Task 기반 LLM 성능 평가를 위한 자동화 벤치마크 파이프라인 구현 및 정량적 비교 분석 체계 마련
-* **문서/웹 파서(Parser) 및 연동 모듈 개발**
-  - PDF, DOCX, XLSX 등 비정형 문서로부터 레이아웃을 파싱하고 구조화된 정보를 추출하는 문서 파서 모듈 개발
-  - Webex 플랫폼 내 뉴스 브리핑 및 오픈도메인 챗봇 연동 및 운영 관리
-  - 크롤러 및 웹 파서 개발, 외부 웹 검색 통합 API 개발
+  - API 부하테스트 및 자원별 서빙 적합성 분석
+
 
 ### **Intelligent Information Processing Lab** (NLP 연구원)
 *`2021.06 ~ 2024.02`*
@@ -97,6 +100,7 @@
 * **(멘토링)** 대학원생 AI 멘토링 진행
 * **(학술 활동)** *Expert Systems*, *IEEE Access* 저널 Reviewer 활동
 * 멘토링 활동 및 특강 진행 [더보기](Experiments/AI%20멘토링%20활동%20및%20특강.md)
+* **(기술자문)** 롯데케미칼 인도네시아법인 AI 시스템 기술 자문
 
 ### 참여 경진대회 및 해커톤
 * (KDD) KDD Cup 2026 (2026)

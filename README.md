@@ -1,20 +1,19 @@
 # 이기훈 (Liky)
-> **AI Researcher & Developer**
+> **AI Researcher & Developer** 
+>
 > 주로 NLP 관련 업무를 연구 및 개발하고 있으며, 데이터 구축부터 모델 학습, 서빙까지 전체 파이프라인을 다룹니다. LLM 서비스의 실무 편의성을 높이는 다양한 모듈과 에이전틱AI 서비스를 개발 및 제공하고 있습니다.
 
 <p align="left">
   <a href="mailto:leekihoon1689@gmail.com"><img src="https://img.shields.io/badge/Email-leekihoon1689@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/Liky-yyy"><img src="https://img.shields.io/badge/GitHub-Liky--yyy-black?style=flat-square&logo=github" alt="GitHub"></a>
-  
+  &nbsp;&nbsp;
   <a href="https://forbetterdays.tistory.com/"><img src="https://img.shields.io/badge/Blog-For%20Better%20Days-orange?style=flat-square" alt="Blog"></a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kihoon-lee-a9b36b277/"><img src="https://img.shields.io/badge/LinkedIn-Liky-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/liky_yyy/"><img src="https://img.shields.io/badge/Instagram-Liky__yyy-pink?style=flat-square&logo=instagram" alt="Instagram"></a>
 </p>
-
----
 
 ## Key Achievements
 * 🥇 **제 3회 KRX 금융 언어모델 경진대회 1위** (한국거래소 이사장상) [더보기](Certificate&Awards/제%203회%20KRX%20금융%20언어모델%20경진대회.md)
@@ -67,6 +66,7 @@
 * **KiHoon Lee**, Myeonghoe Lee, and Chang Choi*, "Unified Modal Ensemble Method: Efficient Integration for Enhanced Multimodal Learning", _Applied Soft Computing Journal_, Submitted
 
 ### 국내 학술대회 (Domestic Conferences)
+* 신승민, 김광륜, **이기훈**, 정지원, 박주혜, 김정환, 김원철 "모호한 질의 응답 개선을 위한 약어 의미 선택 태스크", *대한전자공학회 2026*
 * **이기훈**, 임형준, 유용상 "KoLex: 최신 법령 · 판례 동기화와 증거 중심 신뢰 생성을 통합한 한국 법률 RAG 프레임워크", *HCLT 2025*
 * 신승민, 김대건, 이웅기, 김광륜, 최일호, **이기훈**, 전봉지 "대규모 언어 모델을 활용한 통합 추론 및 신뢰도 조정 방법", *HCLT 2025*
 * 임형준, 유용상, **이기훈** "Adversarial Correction: 하드 네거티브 튜닝을 통한 실제 환경 이미지 텍스트에 대한 VLM 일반화 성능 향상", *KACL 한국코퍼스언어학회 2025*
